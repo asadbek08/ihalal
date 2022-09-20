@@ -55,7 +55,7 @@ h1{
     text-align: center;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 400px) {
   h1{
     font-size: 2.5rem;
   }
@@ -129,7 +129,7 @@ em{
 }
 
 
-@media (max-width: 500px){
+@media (max-width: 400px){
   .pics{
     width: 20%;
     text-align: center;
@@ -166,7 +166,7 @@ h2{
   font-weight: bolder;
   color: #42855B;
 }
-@media (max-width: 500px) {
+@media (max-width: 400px) {
   h2{
     font-size: 1.5rem;
   }
@@ -207,7 +207,7 @@ p{
   color: #fff;
 
 }
-@media (max-width: 500px) {
+@media (max-width: 400px) {
   #cta h3{
     font-size: 2rem;
   }
